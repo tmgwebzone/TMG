@@ -96,4 +96,30 @@
 <loc>https://tmgwebzone.github.io/TMG/terms3.html</loc>
 <priority>0.80</priority>
 </url>
+
+   <url>
+<loc>https://tmgwebzone.github.io/TMG/analysis.html</loc>
+<priority>0.80</priority>
+</url>
+<!--  about  -->
+<url>
+<loc>https://tmgwebzone.github.io/TMG/about4.html</loc>
+<priority>0.80</priority>
+</url>
+<!--  contact   -->
+<url>
+<loc>https://tmgwebzone.github.io/TMG/contact4.html</loc>
+<priority>0.80</priority>
+</url>
+<!--  privacy  -->
+<url>
+<loc>https://tmgwebzone.github.io/TMG/privacy4.html</loc>
+<priority>0.80</priority>
+</url>
+<!--  terms  -->
+<url>
+<loc>https://tmgwebzone.github.io/TMG/terms4.html</loc>
+<priority>0.80</priority>
+</url>
+  
 </urlset>
