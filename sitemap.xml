@@ -43,4 +43,32 @@
     <priority>0.80</priority>
   </url>
 
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/Barja.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- about -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/about2.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- contact  -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/contact2.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- privacy -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/privacy2.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- terms -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/terms2.html</loc>
+    <priority>0.80</priority>
+  </url>
 </urlset>
