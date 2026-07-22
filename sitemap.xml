@@ -19,4 +19,28 @@
     <priority>0.80</priority>
   </url>
 
+   <!-- about -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- contact  -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- privacy -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/privacy.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- terms -->
+    <url>
+    <loc>https://tmgwebzone.github.io/TMG/terms.html</loc>
+    <priority>0.80</priority>
+  </url>
+
 </urlset>
